@@ -1,1 +1,1 @@
-# studynotes
+# this repository has study notes
