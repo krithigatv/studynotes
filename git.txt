@@ -22,4 +22,4 @@ steps to make changes inside a repository;
 4. adding files to staging area - git add .
 5. commiting to local repository - git commit -m "made changes"
 6. push the file to remote repository - git push origin branchname
-7. 
+
