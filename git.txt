@@ -10,7 +10,9 @@ merge
 pull request
 revert - used to delete a commit
 conflict
-
+staging area
+local repository
+remote repository
 
 steps to make changes inside a repository;
 
