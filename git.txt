@@ -1,0 +1,23 @@
+commands:
+git --version 
+
+
+topics:
+repository
+commit 
+branch
+merge
+pull request
+revert - used to delete a commit
+conflict
+
+
+steps to make changes inside a repository;
+
+1. clonning a repository
+2. making changes
+3. check the git status of changes - git status .
+4. adding files to staging area - git add .
+5. commiting to local repository - git commit -m "made changes"
+6. push the file to remote repository - git push origin branchname
+7. 
