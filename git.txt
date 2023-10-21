@@ -3,16 +3,16 @@ git --version
 
 
 topics:
-repository
-commit 
+repository - it a folder of my project
+commit - way to push a file into the remote repository
 branch
 merge
 pull request
 revert - used to delete a commit
 conflict
-staging area
-local repository
-remote repository
+staging area - starts tracking the files inside git
+local repository - my desktop
+remote repository - github
 
 steps to make changes inside a repository;
 
