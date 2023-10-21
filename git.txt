@@ -1,8 +1,10 @@
 commands:
+
 git --version 
 
 
 topics:
+
 repository - it a folder of my project
 commit - way to push a file into the remote repository
 branch
