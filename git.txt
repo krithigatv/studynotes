@@ -18,7 +18,7 @@ staging area - starts tracking the files inside git
 local repository - my desktop
 remote repository - github
 
-steps to make changes inside a repository;
+steps to make changes inside a repository:-
 
 1. clonning a repository
 2. making changes
