@@ -25,3 +25,18 @@ steps to make changes inside a repository;
 5. commiting to local repository - git commit -m "made changes"
 6. push the file to remote repository - git push origin branchname
 
+Interview questions
+
+
+clone repo last commit: git clone --depth 1
+create new branch: git checkout -b branchname
+delete new branch: git branch -d branchname # local branch
+delete remote branch: git push origin :branchname #remotebranch
+switch new branch: git checkout branchname
+undo from staging area: git restore filename --cached
+undo from local area: git reset HEAD~
+undo specific commit: git revert commidid
+git pull: git fetch + git merge
+push files to new url: git remote set-url
+push all files including branch: git
+
